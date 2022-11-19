@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.3bf266ee.css",
-    "main.js": "/static/js/main.ed649c21.js",
+    "main.js": "/static/js/main.dbe9ab49.js",
     "static/js/787.73c2c61f.chunk.js": "/static/js/787.73c2c61f.chunk.js",
     "static/media/vecteezy_background-gold_ts1220.jpg": "/static/media/vecteezy_background-gold_ts1220.0ec46cab096d0c249ab5.jpg",
     "index.html": "/index.html",
     "main.3bf266ee.css.map": "/static/css/main.3bf266ee.css.map",
-    "main.ed649c21.js.map": "/static/js/main.ed649c21.js.map",
+    "main.dbe9ab49.js.map": "/static/js/main.dbe9ab49.js.map",
     "787.73c2c61f.chunk.js.map": "/static/js/787.73c2c61f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3bf266ee.css",
-    "static/js/main.ed649c21.js"
+    "static/js/main.dbe9ab49.js"
   ]
 }
