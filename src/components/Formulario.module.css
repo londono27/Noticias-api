@@ -1,0 +1,40 @@
+.heading {
+  font-family: "Raleway", sans-serif;
+  font-size: 2rem;
+  text-align: center;
+  color: white;
+  margin-top: 1rem;
+}
+
+.buscador {
+  margin-top: 0rem;
+  margin-bottom: 0rem;
+  text-align: start;
+  padding: 0.3rem;
+}
+.contenedor-btn {
+  display: flex;
+  margin-bottom: 2rem;
+  justify-content: space-evenly;
+}
+.btn-block {
+  margin-top: 1rem;
+  width: 40%;
+  border-radius: 1.5rem;
+}
+.bagraund {
+  margin-top: 0rem;
+  background-image: url(../img/vecteezy_background-gold_ts1220.jpg);
+}
+.wid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-auto-rows: auto;
+    gap: .5rem;
+  
+}
+.width{
+    height: 100%;
+    margin: .3rem;
+    border-radius: .5rem;
+}
