@@ -4,7 +4,7 @@ import styles from "./Formulario.module.css"
 
 const ListadoNoticias = ({noticias}) =>  ( 
     <div className={`${styles.wid}`}>
-        {noticias.map(noticia => (
+        {noticias && noticias.map(noticia => (
             <Noticia 
                 key={noticia.url}
                 noticia={noticia}
